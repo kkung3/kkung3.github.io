@@ -9,49 +9,37 @@
     "summary": "I am studying for a B.B.A. In Marketing and Management Information Systems in the Shidler College of Business and a minor in Communicology at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "94086",
+      "city": "Sunnyvale",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kkung3",
+        "url": "http://github.com/kkung3"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Data Analysis",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Marketing Analytics",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Gaming",
       "keywords": [
       ]
     }
